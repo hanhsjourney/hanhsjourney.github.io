@@ -3,7 +3,7 @@ body{
 	background: linear-gradient(#FFCDC7, #FFF7EE);
 }
 .header-img{
-	background-image: url(../img/IMG_4869.jpg);
+	background-image: url(../img/img4869.jpg);
 	height: 91vh;
 	background-size: cover;
 	background-position: center;
@@ -53,6 +53,6 @@ h5{
 }
 .navbar-light .navbar-nav .nav-link.disabled {
     color: rgba(0,0,0,1);
-    
+
 
 
