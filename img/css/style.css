@@ -1,0 +1,58 @@
+body{
+	background: #FFCDC7;
+	background: linear-gradient(#FFCDC7, #FFF7EE);
+}
+.header-img{
+	background-image: url(../img/IMG_4869.jpg);
+	height: 91vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat; 
+}
+.header-text{
+	text-align: center;
+	height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 315;
+    font-family: 'Dancing Script', cursive;
+    color: #FFD9CD;
+    font-size: 50;
+
+}
+.navbar{
+	font-family: 'Allura', cursive;
+	color: black;
+
+}
+.navbar-brand{
+	font-size: 28
+}
+.nav-link{
+	font-color: #000000;
+	font-size: 21
+}
+#grad {
+    background: linear-gradient(#FFCDC7, white);
+}
+
+footer{
+	font-family: 'Allura', cursive;
+}
+h5{
+	font-size: 28;
+}
+.footer{
+	
+	margin-top:100px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: rgba(0,0,0,1);
+    
+
+
